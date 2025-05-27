@@ -1,0 +1,44 @@
+body{
+  font-family: Arial;
+  background-color:white;
+}
+
+.header{
+  text-align: center;
+  background-color: rgb(242, 215, 215);
+  padding:20px;
+}
+
+.nav{
+  margin-top: 10px;
+  text-align: right;
+}
+
+.nav a{
+  margin: 0 10px;
+  color:black
+  
+}
+
+.intro{
+  display:flex;
+  justify-content: center;
+  padding: 30px;
+  background-color: azure;
+}
+
+.image img{
+  width: 200px;
+  height: 300px
+}
+.text{
+  margin-left: 30px;
+  max-width: 400px ;
+
+}
+
+.text a{
+  color:blue;
+  
+
+}
